@@ -60,7 +60,7 @@
               </li>
             </ul>
     
-            <div class="search-right">
+            <!-- <div class="search-right">
               <a href="#search" title="search"><span class="fa fa-search" aria-hidden="true"></span></a>
               <div id="search" class="pop-overlay">
                 <div class="popup">
@@ -73,24 +73,12 @@
                 </div>
                 <a class="close" href="#close">×</a>
               </div>
-            </div>
+            </div> -->
             <div class="top-quote mr-lg-2 text-center">
               <a href="#login" class="btn login mr-2"><span class="fa fa-user"></span> login</a>
             </div>
           </div>
-          <div class="mobile-position">
-            <nav class="navigation">
-              <div class="theme-switch-wrapper">
-                <label class="theme-switch" for="checkbox">
-                  <input type="checkbox" id="checkbox">
-                  <div class="mode-container py-1">
-                    <i class="gg-sun"></i>
-                    <i class="gg-moon"></i>
-                  </div>
-                </label>
-              </div>
-            </nav>
-          </div>
+          
         </nav>
       </div>
     </header>
@@ -413,8 +401,8 @@
     <div class="middle py-5">
         <div class="container py-lg-5 py-md-4 py-2">
             <div class="welcome-left text-center py-lg-4">
-                <h5 class="title-small mb-1">Start learning online</h5>
-                <h3 class="title-big">Enhance your skills with best online courses</h3>
+                <h5 class="title-small mb-1">Start learning about us</h5>
+                <h3 class="title-big">Kenali kami lebih jauh dan beri kami saran atau kritik</h3>
                 <a href="#started" class="btn btn-style btn-outline-light mt-sm-5 mt-4 mr-2">Get started now</a>
                 <a href="contact.html" class="btn btn-style btn-primary mt-sm-5 mt-4">Contact Us</a>
             </div>
@@ -426,8 +414,8 @@
             <div class="container">
                 <div class="row main-cont-wthree-2">
                     <div class="col-lg-5 feature-grid-left">
-                        <h5 class="title-small mb-1">Experienced professionals</h5>
-                        <h3 class="title-big mb-4">Meet our teachers</h3>
+                        <h5 class="title-small mb-1">Anggota OSIS SMK Cinta Kasih Tzu Chi</h5>
+                        <h3 class="title-big mb-4">Meet Our Members</h3>
                         <p class="text-para">Curabitur id gravida risus. Fusce eget ex fermentum, ultricies nisi ac sed,
                             lacinia est.
                             Quisque ut lectus consequat, venenatis eros et, commodo risus. Nullam sit amet laoreet elit.
@@ -531,189 +519,7 @@
             </div>
     </section>
     <!-- testimonials -->
-    <section class="w3l-testimonials" id="clients">
-        <!-- /grids -->
-        <div class="cusrtomer-layout py-5">
-            <div class="container py-lg-4 py-md-3 pb-lg-0">
     
-                <h5 class="title-small text-center mb-1">Testimonials</h5>
-                <h3 class="title-big text-center mb-sm-5 mb-4">Happy Clients & Feedbacks</h3>
-                <!-- /grids -->
-                <div class="testimonial-width">
-                    <div id="owl-demo1" class="owl-two owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team1.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid3</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team2.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid4</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team3.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid5</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team4.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid6</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team2.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid7</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team3.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid8</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team2.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid9</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-content">
-                                <div class="testimonial">
-                                    <blockquote>
-                                        <q>Lorem ipsum dolor sit amet elit. Velit beatae
-                                            laudantium
-                                            voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora.
-                                            Dolores molestias adipisci dolo amet!.</q>
-                                    </blockquote>
-                                    <div class="testi-des">
-                                        <div class="test-img"><img src="assets/images/team3.jpg" class="img-fluid"
-                                                alt="client-img">
-                                        </div>
-                                        <div class="peopl align-self">
-                                            <h3>Murid10</h3>
-                                            <p class="indentity">Student</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     
     
     <div id="contact" class="contact-us section">
@@ -721,8 +527,8 @@
           <div class="row">
             <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
               <div class="section-heading">
-                <h2>Feel Free To Send Us a Message About Your Website Needs</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doer ket eismod tempor incididunt ut labore et dolores</p>
+                <h2>Feel Free To Send Us a Message About Your Ideas or Complain About Our Organization</h2>
+                <p>Kami terbuka dengan segala kritik dan saran. Organisasi ini akan berkembang lebih jauh lagi jika ide brilian kalian bisa kami ketahui.</p>
                 <div class="phone-info">
                   <h4><span><i class="fa fa-phone"></i> <a href="#">010-020-0340</a></span></h4>
                 </div>
